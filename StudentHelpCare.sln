@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentHelpCare.UnitTesting
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentHelpCare.ViewModel", "StudentHelpCare.ViewModel\StudentHelpCare.ViewModel.csproj", "{2314040A-66B2-4DE8-B073-8D0B436FBDC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentHelpCareIdentityServer", "StudentHelpCareIdentityServer\StudentHelpCareIdentityServer.csproj", "{874699EC-DED5-4818-8703-FA4679D641A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{2314040A-66B2-4DE8-B073-8D0B436FBDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2314040A-66B2-4DE8-B073-8D0B436FBDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2314040A-66B2-4DE8-B073-8D0B436FBDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874699EC-DED5-4818-8703-FA4679D641A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874699EC-DED5-4818-8703-FA4679D641A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874699EC-DED5-4818-8703-FA4679D641A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874699EC-DED5-4818-8703-FA4679D641A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{FD4CA96E-51CB-4655-8A87-F0B22D76E45E} = {A223AAA5-53DD-478B-932B-0525D3117BD7}
 		{1CC14E59-F921-4B6D-B642-CA1F9C255637} = {A223AAA5-53DD-478B-932B-0525D3117BD7}
 		{2314040A-66B2-4DE8-B073-8D0B436FBDC6} = {A223AAA5-53DD-478B-932B-0525D3117BD7}
+		{874699EC-DED5-4818-8703-FA4679D641A0} = {C9BE48A0-AA25-4BC0-9A41-BC4E5DA4833F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {86324F5F-3DDD-4A18-B8FC-517B9EC1783B}
